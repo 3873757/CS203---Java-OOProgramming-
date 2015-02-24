@@ -23,4 +23,8 @@ public class FizzBuzz{
 	
 	}
 }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master
