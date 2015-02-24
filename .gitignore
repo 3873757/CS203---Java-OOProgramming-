@@ -1,3 +1,8 @@
+# ignore netbeans stuff
+nbproject
+manifest.mf
+build.xml
+
 #Ignore all java class files
 *.class
 
@@ -44,3 +49,5 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/W1D1/NonOO/nbproject/private/
+/W1D1/OO_Approach/nbproject/private/
