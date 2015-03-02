@@ -1,0 +1,35 @@
+             Analysis and design  for tic tac toe
+
+ANALYSIS PHASE
+we need two class 
+1.tictactoe class-------System class
+    //here decleration of board
+    //decleration of player we will use it in change player method
+2.main class    ------------tester
+//tictactoe object will be created here
+  
+3.methods needs to be defined in system class
+                   1.public TicTacToe()//loads the boadr
+                   2. public void initializeBoard()//set rest the board
+                             for loop will added here
+                   3. public void printBoard()
+                   4. public checkForWin()//it checks if there is winner
+                   5. public void changePlayer()//for back and forth
+ DESIGNE phase
+  PRINT BOARD METHOD 
+board = new char[3][3]; TREEE BY THREE MULTIDIMENSIONAL ARRAY
+LABELING CURRENT PLAYER AS p1;
+INTIALIZING THE BOARD USING DOUBLE FOR LOOP
+  FOR I = 0;I LESSTHAN 3
+  FOR J = 0;J LESS THAN 3
+  BOARD[I][J]='-'
+RINT BOARD //BOARD WILL BE CREATED
+THSI LOOP WILL IMPLEMET FOR ROW AND COLUMN,
+MORE LOOPS WILL IMPLEMNTED HERE
+  RESET METHOD
+FOR LOOP FOR CHECKING IF BORD IS FULL AND HAS TRUE FALSE RETUN VALUE
+  WINC CHECK METHOD
+ BASICALLY IT WILL CHECK CELLS ARE FULL AND SAME VALUE
+ WE USE FOR BOOLEAN CHECING VAL AND RETUN WIN
+  PLAYER CHNGE METHOD
+IF STATEMENT THAT CHECKS  
