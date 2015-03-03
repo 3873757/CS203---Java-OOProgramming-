@@ -1,0 +1,111 @@
+   At Break point 6 of question13
+t1
+args
+MAin...........
+
+
+this
+a
+b
+dothingsY................
+
+this 
+a 
+b
+doThigsX
+this 
+a
+b
+doThingsZ
+ At Break point 6 of question8
+s1
+t1
+a
+args
+Main............
+this
+a
+b
+doThingsZ-------
+b
+a
+ths
+doThingsY--------
+
+At the break point 22 of Test.java
+a
+t1
+args
+Main----------
+b
+a
+this
+doThingsY
+--------------
+c
+b
+a
+this
+doThingsY-----------
+b
+a
+this
+doThingsX-----------
+
+At break pont 14 Test.java
+    b
+    s2
+    t1
+    s1
+    a
+    t1
+    args
+Main
+----------------
+b
+a
+this
+doThingsZ..............
+
+    b
+    a
+    this
+doThingsX
+----------------
+    b
+    a
+    this
+doThingY
+---------------
+b
+a
+this
+doThingZ
+---------------
+
+At break point 16 of Test.java
+
+a
+t1
+args
+static
+Main
+----------------
+
+b
+a
+this
+doThingX
+-----------------
+
+b
+a
+this
+doThingsY
+----------------
+
+b
+a
+this
+doThingsZ
+
