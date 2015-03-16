@@ -1,0 +1,15 @@
+Analysis 
+system class GameofLifeproject
+decleration of cell contor and cell array
+defining variables
+Design  
+inside system class 
+   initializzaton of twwo dimesional array
+   for loop updates counter
+   nested for loop that checks the logic prints out the live and died cell
+   try catch that checks if the array is empty.
+main class
+
+hard coding for the array cell elemts/data i have used 1's and 0's
+nested for loop that checcks the total generation and increment if it'd below the required it prints the board 
+nested for loop that checks negibors and set died and live cell
